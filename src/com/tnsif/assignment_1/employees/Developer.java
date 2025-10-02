@@ -14,7 +14,6 @@ public class Developer extends Employee {
 
     public void setProgrammingLanguage(String programmingLanguage) {
         this.programmingLanguage = programmingLanguage;
-
 	}
 
 }

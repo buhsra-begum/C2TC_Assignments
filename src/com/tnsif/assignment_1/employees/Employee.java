@@ -1,5 +1,10 @@
 package com.tnsif.assignment_1.employees;
 
+
+/**
+ * Represents a generic employee.
+ * Demonstrates private attributes with public getters and setters.
+ */
 public class Employee {
     private String name;
     private int employeeId;
@@ -37,6 +42,9 @@ public class Employee {
 
     public void setSalary(double salary) {
         this.salary = salary;
+   
+
+
 
 	}
 

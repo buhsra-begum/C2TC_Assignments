@@ -16,7 +16,6 @@ public class EmployeeUtilities {
         System.out.println("Employee ID: " + emp.getEmployeeId());
         System.out.println("Salary: " + emp.getSalary());
     }
-
     /**
      * Gives a raise to an employee by percentage.
      * Demonstrates modification through public setters.
